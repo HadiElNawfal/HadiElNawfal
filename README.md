@@ -35,4 +35,4 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=HadiElNawfal&icon=1&color=1)
+![Visitor Count](https://visitcount.itsvg.in/api?id=HadiElNawfal&icon=0&color=0)
