@@ -33,7 +33,3 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HadiElNawfal&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
----
-
-![Visitor Count](https://profile-counter.glitch.me/HadiElNawfal/count.svg)
-
